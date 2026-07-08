@@ -177,6 +177,4 @@ Elderly-Care-Monitoring-System/
 
 ---
 
-## 🌟 Support
 
-If you found this project useful, don't forget to **⭐ Star** this repository!
